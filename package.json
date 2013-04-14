@@ -1,0 +1,19 @@
+{
+  "name": "convert-boots",
+  "version": "0.0.0",
+  "description": "Convert-boots, common logic for source-to-source compile plugins",
+  "main": "lib/",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "rain-boots"
+  ],
+  "author": "jiyinyiyong",
+  "license": "BSD",
+  "readmeFilename": "readme.md"
+}
