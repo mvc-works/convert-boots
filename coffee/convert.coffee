@@ -1,6 +1,6 @@
 
 {rain, boots} = require "rain-boots"
-show = console.log
+show = ->
 
 fs = require "fs"
 path = require "path"

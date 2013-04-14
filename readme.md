@@ -29,7 +29,7 @@ object =
   extname: "js"
 ```
 
-* `boots.watch_convert`: watch file and call `convert` on save event
+* `boots.watch`: watch file and call `convert` on save event
 
 Parameter is the same as `boots.convert`.
 
